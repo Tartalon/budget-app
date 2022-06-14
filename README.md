@@ -1,6 +1,4 @@
 
-# budget-app
-
 ## Project setup
 ```
 npm install
